@@ -1,0 +1,42 @@
+Return-Path: <eve@malicious-page.de>
+Received: from malicious-page.de (malicious-page.de [203.0.113.5])
+    by mail.trusted-page.de with ESMTP id 23456
+    for <bob@trusted-page.de>; Fri, 06 May 2025 13:44:00 +0200
+Date: Fri, 06 May 2025 13:44:00 +0200
+From:    Eve <eve@malicious-page.de>
+To:      Bob <bob@trusted-page.de>
+Subject: Agenda for This Week's Meeting (Updated)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--=_Boundary_3.25.1"
+
+----=_Boundary_3.25.1
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+Please review the updated agenda.
+Use this link:
+data:text/html;https://trusted-page.de/info;base64,PGh0bWw+PGJvZHk+PHA+VXBkYXRlZCBBYmVlPC9wPjwvYm9keT48L2h0bWw+
+Let me know.
+Alice
+
+----=_Boundary_3.25.1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hi Bob,</p>
+    <p>Please review the updated agenda.</p>
+    <p>Use this link:
+      <a href="data:text/html;https://trusted-page.de/info;base64,PGh0bWw+PGJvZHk+PHA+VXBkYXRlZCBBYmVlPC9wPjwvYm9keT48L2h0bWw+">
+        Updated Agenda
+      </a>
+    </p>
+    <p>Let me know.</p>
+    <p>Alice</p>
+  </body>
+</html>
+
+----=_Boundary_3.25.1--

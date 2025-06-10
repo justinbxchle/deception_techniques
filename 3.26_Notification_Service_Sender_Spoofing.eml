@@ -1,0 +1,46 @@
+Return-Path: <noreply@trusted-page.de>
+Received: from notifications.trusted-page.de (notifications.trusted-page.de [198.51.100.10])
+    by mail.trusted-page.de with ESMTP id 34567
+    for <bob@trusted-page.de>; Fri, 06 May 2025 13:46:00 +0200
+Date: Fri, 06 May 2025 13:46:00 +0200
+From:    Trusted Page <noreply@trusted-page.de>
+To:      Bob <bob@trusted-page.de>
+Subject: Alice has shared a document with you
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--=_Boundary_3.26"
+
+----=_Boundary_3.26
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+Alice has shared a document with you.
+Message:
+Attached is the agenda for this week's meeting.
+You can edit it here:
+https://malicious-page.de/presentation/d/abcdef/edit
+
+Best,
+The Trusted Page Team
+
+----=_Boundary_3.26
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hi Bob,</p>
+    <p><strong>Alice has shared a document with you.</strong></p>
+    <p><em>Message:</em><br/>
+       Attached is the agenda for this week's meeting.</p>
+    <p>You can edit it here:
+      <a href="https://malicious-page.de/presentation/d/abcdef/edit">
+        View &amp; Edit Document
+      </a>
+    </p>
+    <p>Best,<br/>The Trusted Page Team</p>
+  </body>
+</html>
+
+----=_Boundary_3.26--

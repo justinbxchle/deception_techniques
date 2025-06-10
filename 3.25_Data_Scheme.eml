@@ -1,0 +1,43 @@
+Return-Path: <eve@malicious-page.de>
+Received: from malicious-page.de (malicious-page.de [203.0.113.5])
+    by mail.trusted-page.de with ESMTP id 12345
+    for <bob@trusted-page.de>; Fri, 06 May 2025 13:42:00 +0200
+Date: Fri, 06 May 2025 13:42:00 +0200
+From:    Eve <eve@malicious-page.de>
+To:      Bob <bob@trusted-page.de>
+Subject: Agenda for This Week's Meeting
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--=_Boundary_3.25"
+
+----=_Boundary_3.25
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Bob,
+Attached is the agenda for this week's meeting on Friday.
+You can edit the slides using the following link:
+data:text/html;base64,PGh0bWw+PGJvZHk+PGgxPkhlbGxvIFdvcmxkPC9oMT48L2JvZHk+PC9odG1sPg==
+Let me know if you have any questions.
+Best wishes,
+Alice
+
+----=_Boundary_3.25
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Hi Bob,</p>
+    <p>Attached is the agenda for this week's meeting on Friday.</p>
+    <p>You can edit the slides using the following link:
+      <a href="data:text/html;base64,PGh0bWw+PGJvZHk+PGgxPkhlbGxvIFdvcmxkPC9oMT48L2JvZHk+PC9odG1sPg==">
+        Link to Slides
+      </a>
+    </p>
+    <p>Let me know if you have any questions.</p>
+    <p>Best wishes,<br/>Alice</p>
+  </body>
+</html>
+
+----=_Boundary_3.25--
