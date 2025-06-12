@@ -1,0 +1,15 @@
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: 3.24.1_Tel_Scheme_USSD_Code
+Mailgen-Description:
+from:    Alice <alice@trusted-page.de>
+to:      Bob <bob@trusted-page.de>
+Date: Mi, 01 Jan 2025 01:00:00 GMT
+
+<html>
+  <body>
+      <a href="tel:**21*00113371337#"
+        >Link</a>
+  </body>
+</html>

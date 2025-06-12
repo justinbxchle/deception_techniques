@@ -1,32 +1,11 @@
-Return-Path: <noreply@trusted-page.de>
-Received: from notifications.trusted-page.de (notifications.trusted-page.de [198.51.100.10])
-    by mail.trusted-page.de with ESMTP id 34567
-    for <bob@trusted-page.de>; Fri, 06 May 2025 13:46:00 +0200
-Date: Fri, 06 May 2025 13:46:00 +0200
-From:    Trusted Page <noreply@trusted-page.de>
-To:      Bob <bob@trusted-page.de>
-Subject: Alice has shared a document with you
-MIME-Version: 1.0
-Content-Type: multipart/alternative;
- boundary="--=_Boundary_3.26"
-
-----=_Boundary_3.26
-Content-Type: text/plain; charset="UTF-8"
-Content-Transfer-Encoding: 7bit
-
-Hi Bob,
-Alice has shared a document with you.
-Message:
-Attached is the agenda for this week's meeting.
-You can edit it here:
-https://malicious-page.de/presentation/d/abcdef/edit
-
-Best,
-The Trusted Page Team
-
-----=_Boundary_3.26
 Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
 Content-Transfer-Encoding: 7bit
+Subject: 3.26_Notification_Service
+Mailgen-Description:
+from:    Trusted Page <noreply@trusted-page.de>
+to:      Bob <bob@trusted-page.de>
+Date: Mi, 01 Jan 2025 01:00:00 GMT
 
 <html>
   <body>

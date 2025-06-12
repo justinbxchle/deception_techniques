@@ -1,43 +1,15 @@
-Return-Path: <eve@malicious-page.de>
-Received: from malicious-page.de (malicious-page.de [203.0.113.5])
-    by mail.trusted-page.de with ESMTP id 12345
-    for <bob@trusted-page.de>; Fri, 06 May 2025 13:42:00 +0200
-Date: Fri, 06 May 2025 13:42:00 +0200
-From:    Eve <eve@malicious-page.de>
-To:      Bob <bob@trusted-page.de>
-Subject: Agenda for This Week's Meeting
-MIME-Version: 1.0
-Content-Type: multipart/alternative;
- boundary="--=_Boundary_3.25"
-
-----=_Boundary_3.25
-Content-Type: text/plain; charset="UTF-8"
-Content-Transfer-Encoding: 7bit
-
-Hi Bob,
-Attached is the agenda for this week's meeting on Friday.
-You can edit the slides using the following link:
-data:text/html;base64,PGh0bWw+PGJvZHk+PGgxPkhlbGxvIFdvcmxkPC9oMT48L2JvZHk+PC9odG1sPg==
-Let me know if you have any questions.
-Best wishes,
-Alice
-
-----=_Boundary_3.25
 Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
 Content-Transfer-Encoding: 7bit
+Subject: 3.25_Data_Scheme
+Mailgen-Description:
+from:    Alice <alice@trusted-page.de>
+to:      Bob <bob@trusted-page.de>
+Date: Mi, 01 Jan 2025 01:00:00 GMT
 
 <html>
   <body>
-    <p>Hi Bob,</p>
-    <p>Attached is the agenda for this week's meeting on Friday.</p>
-    <p>You can edit the slides using the following link:
-      <a href="data:text/html;base64,PGh0bWw+PGJvZHk+PGgxPkhlbGxvIFdvcmxkPC9oMT48L2JvZHk+PC9odG1sPg==">
-        Link to Slides
-      </a>
-    </p>
-    <p>Let me know if you have any questions.</p>
-    <p>Best wishes,<br/>Alice</p>
+      <a href="data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHR0dGxlPlBsYWNlaG9sZGVyIFBhZ2U8L3RpdGxlPgo8c3R5bGU+CiAgICBib2R5IHsKICAgICAgICB3aWR0aDogMzVlbTsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgICAgICBmb250LWZhbWlseTogVGFob21hLCBWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgIH0KPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KPGgxPlRoaXMgaXMgYSBwbGFjZWhvbGRlciBwYWdlPC9oMT4KPHA+VGhpcyBwYWdlIGlzIHVzZWQgZm9yIHNlY3VyaXR5IHJlc2VhcmNoIG9ubHkuIEZvciBmdXJ0aGVyIGluZm9ybWF0aW9uIGdvIGUuZy4gdG8gPGEgaHJlZj0iaHR0cHM6Ly9zZWN1c28uYWlmYi5raXQuZWR1L2VuZ2xpc2gvRWR1Y2F0aW9uX2FuZF9UcmFpbmluZ19NYXRlcmlhbHMucGhwIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9zZWN1c28uYWlmYi5raXQuZWR1L2VuZ2xpc2gvRWR1Y2F0aW9uX2FuZF9UcmFpbmluZ19NYXRlcmlhbHMucGhwPC9hPjwvcD4KCjxwPk1heGltZSBWZWl0IC0gQ29udGFjdCBtZSBieSBFLU1haWw6PGJyPiBwL2F0LXNpZ24vbXZlaXQuZGUgPGJyPihyZXBsYWNlIC9hdC1zaWduLyBieSBAKTwvcD4KCjxwPjxlbT48YSBocmVmPSJodHRwczovLzNoMy5kZS9pbXByZXNzdW0uaHRtbCI+SW1wcmVzc3VtPC9hPjwvZW0+PC9wPgo8L2JvZHk+CjwvaHRtbD4="
+        >Link</a>
   </body>
 </html>
-
-----=_Boundary_3.25--

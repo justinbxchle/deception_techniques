@@ -1,34 +1,18 @@
-Return-Path: <eve@malicious-page.de>
-Received: from malicious-page.de (malicious-page.de [203.0.113.5])
-    by mail.trusted-page.de with ESMTP id 56789
-    for <bob@trusted-page.de>; Fri, 06 May 2025 13:50:00 +0200
-Date: Fri, 06 May 2025 13:50:00 +0200
-From:    Eve <eve@malicious-page.de>
-To:      Bob <bob@trusted-page.de>
-Subject: Agenda for This Week's Meeting
-MIME-Version: 1.0
-Content-Type: multipart/related;
- boundary="--=_Boundary_3.27.2"
-
-----=_Boundary_3.27.2
 Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
 Content-Transfer-Encoding: 7bit
+Subject: 3.27.2_Fake_Scrollbar
+Mailgen-Description:
+from:    Alice <alice@trusted-page.de>
+to:      Bob <bob@trusted-page.de>
+Date: Mi, 01 Jan 2025 01:00:00 GM
 
 <html>
-  <body style="font-family:sans-serif;">
-    <p>Hi Bob,</p>
-    <p>Attached is the agenda for this week's meeting on Friday.</p>
-    <p><strong>Agenda:</strong><br/>
-       10:00 Intro<br/>
-       11:00 Important</p>
+  <body style="font-family:sans-serif; position:relative; margin:0; padding:20px;">
     <!-- Fake Scrollbar als klickbares Bild -->
-    <a href="https://malicious-page.de/presentation/d/abcdef/edit">
-      <img src="https://malicious-page.de/images/fake-scrollbar.png"
-           alt="Scroll to see more" style="display:block;"/>
+    <a href="https://malicious-page.de" style="position:fixed; top:0; right:0; height:100%; width:17px; z-index:1000;">
+      <img src="https://i.postimg.cc/B8HR9xqK/scrollbar.png"
+           alt="Scroll to see more" style="width:17px; height:100%; object-fit:cover;"/>
     </a>
-    <p>Let me know if you have any questions.</p>
-    <p>Best wishes,<br/>Alice</p>
   </body>
 </html>
-
-----=_Boundary_3.27.2--
