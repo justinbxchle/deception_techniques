@@ -1,7 +1,7 @@
 Content-Type: text/html; charset="us-ascii"
 MIME-Version: 1.0
 Content-Transfer-Encoding: 7bit
-Subject: 3.24.2_Tel_Scheme_Premium_Rate
+Subject: 3.7.2_Link_Missmatch_Circumvention
 Mailgen-Description:
 from:    Alice <alice@trusted-page.de>
 to:      Bob <bob@trusted-page.de>
@@ -9,7 +9,6 @@ Date: Mi, 01 Jan 2025 01:00:00 GMT
 
 <html>
   <body>
-      <a href="tel:090012345678"
-        >Link</a>
+    <a href="https://malicious-page.de">&#x1D5C1;ttps://trusted-page.de</a>
   </body>
 </html>
