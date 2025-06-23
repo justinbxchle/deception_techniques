@@ -8,11 +8,25 @@ to:      Bob <bob@trusted-page.de>
 Date: Wed, 01 Jan 2025 00:14:00 +0000
 
 <html>
-  <body style="font-family:sans-serif; position:relative; margin:0; padding:20px;">
-    <!-- Fake Scrollbar als klickbares Bild -->
-    <a href="https://malicious-page.de" style="position:fixed; top:0; right:0; height:100%; width:17px; z-index:1000;">
-      <img src="https://i.postimg.cc/B8HR9xqK/scrollbar.png"
-           alt="Scroll to see more" style="width:17px; height:100%; object-fit:cover;"/>
-    </a>
-  </body>
+  <body height="100%" marginwidth="0" marginheight="0">
+
+  <!-- Table spanning full width and (attempted) full height -->
+  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- empty cell expands to push the next cell to the right -->
+      <td>&nbsp;</td>
+      <!-- right-side cell fixed width for the scrollbar image -->
+      <td width="17" align="right" valign="top">
+        <a href="https://malicious-page.de" target="_top">
+          <!-- width fixed to 17px; height="100%" attempts to fill the table height -->
+          <img src="https://i.postimg.cc/B8HR9xqK/scrollbar.png"
+               width="17"
+               height="100%"
+               alt="">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</body>
 </html>
