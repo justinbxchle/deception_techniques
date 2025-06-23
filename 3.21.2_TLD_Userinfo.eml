@@ -9,6 +9,6 @@ Date: Wed, 01 Jan 2025 00:06:00 +0000
 
 <html>
   <body>
-    <a href="https://trusted-page.de@malicious-page.de"></a>
+    <a href="https://trusted-page.de@malicious-page.de">https://trusted-page.de@malicious-page.de</a>
   </body>
 </html>

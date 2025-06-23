@@ -9,7 +9,7 @@ Date: Wed, 01 Jan 2025 00:07:00 +0000
 
 <html>
   <body>
-    <a href="https://malicious-page.de#trusted-page.de"></a>
+    <a href="https://malicious-page.de#trusted-page.de">https://malicious-page.de#trusted-page.de</a>
   </body>
 </html>
 
