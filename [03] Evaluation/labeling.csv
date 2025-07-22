@@ -1,0 +1,217 @@
+﻿Client;Instantiation name;Phishing trick name;Source EML File;Evaluation Screenshots Path;Infos;Type of assistance;Interaction required to get complete and correct info;Crititcallity;Critically-code;Type of technique
+Android_Gmail;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Outlook;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Proton;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_SamsungMail;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+iOS_AppleMail;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;misleading;none;no;4;misleading.none.no;Link
+iOS_Gmail;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;misleading;none;no;4;misleading.none.no;Link
+iOS_Outlook;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;misleading;none;no;4;misleading.none.no;Link
+iOS_Proton;3.7.2_Link_Missmatch_Circumvention;7. Link Mismatch;3.7.2_Link_Missmatch_Circumvention.eml;7.2 Circumventing Mitigation Techniques;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Gmail;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Outlook;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Proton;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_SamsungMail;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+iOS_AppleMail;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;misleading;none;no;4;misleading.none.no;Link
+iOS_Gmail;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;misleading;none;no;4;misleading.none.no;Link
+iOS_Outlook;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;misleading;none;no;4;misleading.none.no;Link
+iOS_Proton;3.7.1_Link_Missmatch_URL;7. Link Mismatch;3.7.1_Link_Missmatch_URL.eml;7.1 Using URL as Link Text;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Gmail;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Outlook;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Proton;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_SamsungMail;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+iOS_AppleMail;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;misleading;none;no;4;misleading.none.no;Link
+iOS_Gmail;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;misleading;none;no;4;misleading.none.no;Link
+iOS_Outlook;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;misleading;none;no;4;misleading.none.no;Link
+iOS_Proton;3.7_Link_Missmatch;7. Link Mismatch;A07-Link-Link-Missmatch.json.eml;7. Link Missmatch;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Link
+Android_Outlook;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;blocked;no;0;none.blocked.no;Link
+Android_Proton;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;blocked;no;0;none.blocked.no;Link
+iOS_Gmail;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;blocked;no;0;none.blocked.no;Link
+iOS_Outlook;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;blocked;no;0;none.blocked.no;Link
+iOS_Proton;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;blocked;no;0;none.blocked.no;Link
+Android_Gmail;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;none;no;4;none.none.no;Link
+Android_SamsungMail;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;none;no;4;none.none.no;Link
+iOS_AppleMail;3.6_HTML_Form_Tag;6. HTML Form-Tag;A06-Link-HTML Form-Tag.json.eml;6. HTML Form-Tag;none;none;no;4;none.none.no;Link
+Android_Gmail;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;correct;none;yes;1;correct.none.yes;Link
+Android_SamsungMail;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.5_HTML_Base_Tag;5. HTML Base-Tag;A05-Link-HTML Base-Tag.json.eml;5. HTML Base-Tag;none;none;no;4;none.none.no;Link
+Android_Gmail;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;correct;none;yes;1;correct.none.yes;Link
+Android_SamsungMail;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.4_Hexadecimal_Encoding;4. Hexadecimal Encoding;A04-Link-Hexadecimal-Encoding.json.eml;4. Hecadecimal Encoding;none;none;no;4;none.none.no;Link
+iOS_AppleMail;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;none;blocked;no;0;none.blocked.no;Link
+iOS_Outlook;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;none;blocked;no;0;none.blocked.no;Link
+Android_Outlook;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;correct;warning;no;1;correct.warning.no;Link
+Android_Gmail;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;misleading;none;yes;4;misleading.none.yes;Link
+Android_SamsungMail;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.27.2_Visual_Integrity_Fake_Scrollbar;27. Visual Integrity;3.27.2_Visual_Integrity_Fake_Scrollbar.eml;27.2 Clickjacking Using a Fake Scroll Bar;none;none;no;4;none.none.no;Link
+Android_Gmail;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;blocked;no;0;none.blocked.no;Link
+Android_Proton;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;blocked;no;0;none.blocked.no;Link
+iOS_Proton;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;blocked;no;0;none.blocked.no;Link
+Android_Outlook;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;none;no;4;none.none.no;Link
+Android_SamsungMail;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;none;no;4;none.none.no;Link
+iOS_AppleMail;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.27.1_Visual_Integrity_Fake_Password;27. Visual Integrity;3.27.1_Visual_Integrity_Fake_Password.eml;27.1 Fake Password Prompt by the Email Client;none;none;no;4;none.none.no;Link
+Android_Gmail;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_Outlook;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_Proton;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_SamsungMail;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_AppleMail;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Gmail;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Outlook;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Proton;3.25.1_Data_Scheme_Advancement;25. Data-Scheme;3.25.1_Data_Scheme_Advancement.eml;25.1 Embedding a Fake URL in the Data Scheme;correct;none;yes;1;correct.none.yes;Link
+Android_Gmail;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_Outlook;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_Proton;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+Android_SamsungMail;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_AppleMail;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Gmail;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Outlook;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;none;blocked;no;0;none.blocked.no;Link
+iOS_Proton;3.25_Data_Scheme;25. Data-Scheme;3.25_Data_Scheme.eml;25. Data-Scheme;correct;none;yes;1;correct.none.yes;Link
+iOS_Gmail;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;blocked;yes;0;correct.blocked.yes;Link
+Android_Gmail;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_SamsungMail;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_Outlook;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.24.2_Tel_Scheme_Premium_Rate;24.Tel-Scheme;3.24.2_Tel_Scheme_Premium_Rate.eml;24.2 Premium Rate Service Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;none;blocked;no;0;none.blocked.no;Link
+Android_Gmail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_SamsungMail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_Gmail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_Outlook;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;blocked;yes;0;correct.blocked.yes;Link
+iOS_Proton;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+Android_Gmail;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
+Android_Outlook;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_Proton;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_SamsungMail;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
+iOS_AppleMail;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
+iOS_Gmail;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;yes;4;misleading.none.yes;Sender
+iOS_Outlook;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
+iOS_Proton;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
+iOS_Proton;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;correct;none;yes;1;correct.none.yes;Link
+Android_Gmail;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;misleading;none;yes;4;misleading.none.yes;Link
+Android_Outlook;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;misleading;none;yes;4;misleading.none.yes;Link
+Android_Proton;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;misleading;none;yes;4;misleading.none.yes;Link
+Android_SamsungMail;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;misleading;none;yes;4;misleading.none.yes;Link
+iOS_AppleMail;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.23_Exceedingly_Long-link;23. Exceedingly Long;A29-Link-Exceedingly-Long.json.eml;23. Exceedingly Long/link;none;none;no;4;none.none.no;Link
+Android_Gmail;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;correct;none;no;1;correct.none.no;Attachment
+Android_Proton;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;correct;none;no;1;correct.none.no;Attachment
+Android_SamsungMail;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;correct;none;no;1;correct.none.no;Attachment
+iOS_Proton;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;correct;none;no;1;correct.none.no;Attachment
+Android_Outlook;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;both;none;no;2;both.none.no;Attachment
+iOS_AppleMail;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;both;none;no;2;both.none.no;Attachment
+iOS_Gmail;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;both;none;no;2;both.none.no;Attachment
+iOS_Outlook;3.23_Exceedingly_Long-attm;23. Exceedingly Long;A30-Attm-Exceedingly-Long.json.eml;23. Exceedingly Long/attm;both;none;no;2;both.none.no;Attachment
+Android_Gmail;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_same;2;both.none.yes_same;Sender
+Android_Proton;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;no;2;both.none.no;Sender
+iOS_Proton;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;no;2;both.none.no;Sender
+Android_Outlook;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_SamsungMail;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_AppleMail;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_Gmail;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_Outlook;3.2.2_Mail_Sender_Name_Circumvention;2. Sender-Name Spoofing;3.2.2_Mail_Sender_Name_Circumvention.eml;2.2 Circumventing Mitigations;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_AppleMail;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;correct;none;no;1;correct.none.no;Sender
+Android_Gmail;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;yes_same;2;both.none.yes_same;Sender
+Android_Outlook;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;yes_same;2;both.none.yes_same;Sender
+Android_Proton;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;no;2;both.none.no;Sender
+iOS_Outlook;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;yes_same;2;both.none.yes_same;Sender
+iOS_Proton;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;no;2;both.none.no;Sender
+Android_SamsungMail;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_Gmail;3.2.1_Mail_Sender_Name;2. Sender-Name Spoofing;3.2.1_Mail_Sender_Name.eml;2.1 Using Email Address in the Sender Name Field;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_Gmail;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;6. Sender-Name Spoofing;both;none;yes_same;2;both.none.yes_same;Sender
+Android_Proton;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;9. Sender-Name Spoofing;both;none;no;2;both.none.no;Sender
+iOS_Proton;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;5. Sender-Name Spoofing;both;none;no;2;both.none.no;Sender
+Android_Outlook;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;8. Sender-Name Spoofing;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_SamsungMail;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;7. Sender-Name Spoofing;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_AppleMail;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;2. Sender-Name Spoofing;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_Gmail;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;3. Sender-Name Spoofing;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+iOS_Outlook;3.2_Sender_Name-Spoofing;2. Sender-Name Spoofing;A02-Sender-Sender-Name-Spoofing.json.eml;4. Sender-Name Spoofing;both;none;yes_misleading-first;4;both.none.yes_misleading-first;Sender
+Android_Gmail;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;yes;4;misleading.none.yes;Sender
+Android_Outlook;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_Proton;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_SamsungMail;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;none;none;no;4;none.none.no;Sender
+iOS_AppleMail;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+iOS_Gmail;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;yes;4;misleading.none.yes;Sender
+iOS_Outlook;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+iOS_Proton;3.17_Right_to_Left_Override-sender-utf;17. Right-to-Left-Override;A31.1-Sender-Right-to-Left-Override-utf.json.eml;17. Right-to-Left-Override/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_Gmail;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;yes;1;correct.none.yes;Sender
+Android_Outlook;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_Proton;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_SamsungMail;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;no;1;correct.none.no;Sender
+iOS_AppleMail;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;yes;1;correct.none.yes;Sender
+iOS_Gmail;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;yes;1;correct.none.yes;Sender
+iOS_Outlook;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;no;1;correct.none.no;Sender
+iOS_Proton;3.17_Right_to_Left_Override-sender-punycode;17. Right-to-Left-Override;A31.2-Sender-Right-to-Left-Override-punycode.json.eml;17. Right-to-Left-Override/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_Gmail;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+Android_Outlook;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+Android_Proton;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+iOS_AppleMail;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+iOS_Gmail;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+iOS_Outlook;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+iOS_Proton;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;correct;none;no;1;correct.none.no;Attachment
+Android_SamsungMail;3.17_Right_to_Left_Override-attm;17. Right-to-Left-Override;A33-Attm-Right-to-Left-Override.json.eml;17. Right-to-Left-Override/attm;none;none;no;4;none.none.no;Attachment
+iOS_AppleMail;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;correct;none;yes;1;correct.none.yes;Sender
+Android_Gmail;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;yes;4;misleading.none.yes;Sender
+Android_Outlook;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_Proton;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_SamsungMail;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;none;none;no;4;none.none.no;Sender
+iOS_Gmail;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;yes;4;misleading.none.yes;Sender
+iOS_Outlook;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+iOS_Proton;3.16_Homographic_Spoofing-sender-utf;16. Homographic Spoofing;A20.1-Sender-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/sender/utf;misleading;none;no;4;misleading.none.no;Sender
+Android_Outlook;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_Proton;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_SamsungMail;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;no;1;correct.none.no;Sender
+iOS_AppleMail;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;yes;1;correct.none.yes;Sender
+iOS_Outlook;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;no;1;correct.none.no;Sender
+iOS_Proton;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;correct;none;no;1;correct.none.no;Sender
+Android_Gmail;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;misleading;none;yes;4;misleading.none.yes;Sender
+iOS_Gmail;3.16_Homographic_Spoofing-sender-punycode;16. Homographic Spoofing;A20.2-Sender-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/sender/punycode;misleading;none;yes;4;misleading.none.yes;Sender
+Android_Gmail;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;none;none;no;4;none.none.no;Link
+Android_SamsungMail;3.16_Homographic_Spoofing-link-utf;16. Homographic Spoofing;A21.1-Link-Non-Ascii-Characters-utf.json.eml;16. Homographic Spooffing/link/utf;correct;none;yes;1;correct.none.yes;Link
+Android_Gmail;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;correct;none;yes;1;correct.none.yes;Link
+Android_Outlook;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;correct;none;yes;1;correct.none.yes;Link
+Android_Proton;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;correct;none;yes;1;correct.none.yes;Link
+Android_SamsungMail;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;correct;none;yes;1;correct.none.yes;Link
+iOS_Proton;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;correct;none;yes;1;correct.none.yes;Link
+iOS_AppleMail;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.16_Homographic_Spoofing-link-punycode;16. Homographic Spoofing;A21.2-Link-Non-Ascii-Characters-punycode.json.eml;16. Homographic Spooffing/link/punycode;none;none;no;4;none.none.no;Link
+Android_Gmail;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+Android_Outlook;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+Android_Proton;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+Android_SamsungMail;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+iOS_AppleMail;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+iOS_Gmail;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+iOS_Outlook;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+iOS_Proton;3.14_Double_File_Extension;14. Double File-Extension;A14-Attm-Double-File-Extension.json.eml;14. Double File-Extension;both;none;no;2;both.none.no;Attachment
+Android_Gmail;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;both;none;yes_same;2;both.none.yes_same;Link
+Android_Outlook;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;both;none;yes_same;2;both.none.yes_same;Link
+Android_Proton;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;both;none;yes_same;2;both.none.yes_same;Link
+Android_SamsungMail;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;both;none;yes_same;2;both.none.yes_same;Link
+iOS_Proton;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;both;none;yes_same;2;both.none.yes_same;Link
+iOS_AppleMail;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;none;none;no;4;none.none.no;Link
+iOS_Gmail;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;none;none;no;4;none.none.no;Link
+iOS_Outlook;3.13_URL_Userinfo_Field;13. URL Userinfo Field;A13-Link-URL-Userinfo-Field.json.eml;13. URL Userinfo Field;none;none;no;4;none.none.no;Link

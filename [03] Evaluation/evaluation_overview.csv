@@ -1,0 +1,28 @@
+﻿Type;Name;Advancement;iOS_Apple_Mail;iOS_Gmail;iOS_Microsoft_Outlook;iOS_Proton_Mail;Android_Gmail;Android_Samsung_Mail;Android_Microsoft_Outlook;Android_Proton_Mail
+Sender;Sender Name Spoofing (2);;High;High;High;Medium;Medium;High;High;Medium
+Sender;Sender Name Spoofing (2);Mail Sender Name (2.1);Low;High;Medium;Medium;Medium;High;Medium;Medium
+Sender;Sender Name Spoofing (2);Mail Sender Name Circumvention (2.2);High;High;High;Medium;Medium;High;High;Medium
+Link;Hexadecimal Encoding (4);;High;High;High;Low;Low;Low;Low;Low
+Link;HTML Base-Tag (5);;High;High;High;Low;Low;Low;Low;Low
+Link;HTML Form-Tag (6);;High;None;None;None;High;High;None;None
+Link;Link Missmatch (7);;High;High;High;High;High;High;High;High
+Link;Link Missmatch (7);Link Missmatch URL (7.1);High;High;High;High;High;High;High;High
+Link;Link Missmatch (7);Link Missmatch Circumvention (7.2);High;High;High;High;High;High;High;High
+Link;URL Userinfo Field (13);;High;High;High;Medium;Medium;Medium;Medium;Medium
+Attachement;Double File Extension (14);;Medium;Medium;Medium;Medium;Medium;Medium;Medium;Medium
+Link;Homographic Spoofing (16);punycode;High;High;High;Low;Low;Low;Low;Low
+Link;Homographic Spoofing (16);utf;High;High;High;Low;Low;Low;Low;Low
+Sender;Homographic Spoofing (16);punycode;Low;High;Low;Low;High;Low;Low;Low
+Sender;Homographic Spoofing (16);utf;Low;High;High;High;High;High;High;High
+Attachement;Right-to-Left Over. (17);;Low;Low;Low;Low;Low;High;Low;Low
+Sender;Right-to-Left Over. (17);;Low;Low;Low;Low;Low;Low;Low;Low
+Sender;Right-to-Left Over. (17);;High;High;High;High;High;High;High;High
+Attachement;Exceedingly Long (23);;Medium;Medium;Medium;Low;Low;Low;Medium;Low
+Link;Exceedingly Long (23);;High;High;High;Low;High;High;High;High
+Sender;Exceedingly Long (23);;High;High;High;High;High;High;High;High
+Link;Tel Scheme (24);Tel Scheme USSD Code (24.1);Low;Low;Low;Low;Low;Low;Low;None
+Link;Tel Scheme (24);Tel Scheme Premium Rate (24.2);Low;None;Low;Low;Low;Low;Low;Low
+Link;Data Scheme (25);;None;None;None;Low;None;None;None;None
+Link;Data Scheme (25);Data Scheme Advancement;None;None;None;Low;None;None;None;None
+Link;Visual Integrity (27);Visual Integrity Fake Password (27.1);High;High;High;None;None;High;High;None
+Link;Visual Integrity (27);Visual Integrity Fake Scrollbar (27.2);None;High;None;Low;High;High;Low;Low
