@@ -92,7 +92,7 @@ Android_Gmail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_C
 Android_Outlook;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
 Android_SamsungMail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
 iOS_AppleMail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
-iOS_Gmail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
+iOS_Gmail;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;blocked;yes;0;correct.blocked.yes;Link
 iOS_Outlook;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;blocked;yes;0;correct.blocked.yes;Link
 iOS_Proton;3.24.1_Tel_Scheme_USSD_Code;24.Tel-Scheme;3.24.1_Tel_Scheme_USSD_Code.eml;24.1 USSD Code Exploitation;correct;none;yes;1;correct.none.yes;Link
 Android_Gmail;3.23_Exceedingly_Long-sender;23. Exceedingly Long;A28-Sender-Exceedingly-Long.json.eml;23. Exceedingly Long/sender;misleading;none;no;4;misleading.none.no;Sender
